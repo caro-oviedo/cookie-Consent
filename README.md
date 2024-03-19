@@ -4,7 +4,7 @@
 + setTimeOut
 + element.style
 + forms
-+ formDate & .get()
++ formData & .get()
 + event.preventDefaul
 + row-reverse
 + toggling classes
